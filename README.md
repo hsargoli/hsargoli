@@ -1,5 +1,7 @@
 # Hi there, I'm Hossein Sargoli 👋
 
+📄 **[View My Full Resume](./Resume.md)**
+
 ### I'm a builder. I turn complex ideas into real, working products.
 
 I’m an independent developer and digital creator. My sweet spot is bridging the gap between deep technical engineering and human-centric design. I don't just write code; I architect systems, integrate AI, design interfaces, and craft the content that brings a platform to life. 
